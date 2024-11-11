@@ -1,11 +1,18 @@
 
 ### GESTOR DE TAREAS
 
-| Paytan Huaman, Jheyson Paul |
-| Rojas Lara, Alexander Jack |
+| Nombre                          | Apellido          |
+|----------------------------------|-------------------|
+| Paytan Huaman, Jheyson Paul      |                   |
+| Rojas Lara, Alexander Jack       |                   |
 
 Docente: 
-| Daniel Gamarra Moreno |
+
+| Nombre                    | Apellido         |
+|---------------------------|------------------|
+| Daniel Gamarra Moreno      |                  |
+
+
 ### Explicación:
 
 1. **Descripción del Proyecto**:
