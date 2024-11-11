@@ -1,5 +1,12 @@
 
-### Explicación del `README.md`:
+### GESTOR DE TAREAS
+
+| Paytan Huaman, Jheyson Paul |
+|Rojas Lara, Alexander Jack |
+
+Docente: 
+| Daniel Gamarra Moreno |
+### Explicación:
 
 1. **Descripción del Proyecto**:
    - Explica el propósito y las funcionalidades de la aplicación (gestión de tareas con Tkinter).
@@ -25,8 +32,5 @@
 8. **Licencia**:
    - Información sobre la licencia del proyecto (MIT en este caso).
 
-### ¿Qué hacer ahora?
 
-1. **Guarda este archivo** como `README.md` en la raíz de tu proyecto.
-2. Si tienes alguna pregunta adicional o deseas ajustar algún detalle, ¡avísame! 😊
 
