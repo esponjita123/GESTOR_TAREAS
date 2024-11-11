@@ -12,8 +12,8 @@ Docente:
 |---------------------------|------------------|
 | Daniel       |      Gamarra Moreno            |
 
-Salon:
 | NRC         | 15790          |
+
 
 
 
