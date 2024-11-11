@@ -2,7 +2,7 @@
 ### GESTOR DE TAREAS
 
 | Paytan Huaman, Jheyson Paul |
-|Rojas Lara, Alexander Jack |
+| Rojas Lara, Alexander Jack |
 
 Docente: 
 | Daniel Gamarra Moreno |
