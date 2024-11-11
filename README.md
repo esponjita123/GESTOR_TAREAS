@@ -3,14 +3,18 @@
 
 | Nombre                          | Apellido          |
 |----------------------------------|-------------------|
-| Paytan Huaman Jheyson Paul      |       Paytan Huaman            |
-| Rojas Lara Alexander Jack       | Rojas Lara                  |
+| Jheyson Paul      |       Paytan Huaman            |
+| Alexander Jack       | Rojas Lara                  |
 
 Docente: 
 
 | Nombre                    | Apellido         |
 |---------------------------|------------------|
 | Daniel       |      Gamarra Moreno            |
+
+Salon:
+| NRC         | 15790          |
+
 
 
 ### Explicación:
