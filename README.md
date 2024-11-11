@@ -3,14 +3,14 @@
 
 | Nombre                          | Apellido          |
 |----------------------------------|-------------------|
-| Paytan Huaman, Jheyson Paul      |                   |
-| Rojas Lara, Alexander Jack       |                   |
+| Paytan Huaman Jheyson Paul      |       Paytan Huaman            |
+| Rojas Lara Alexander Jack       | Rojas Lara                  |
 
 Docente: 
 
 | Nombre                    | Apellido         |
 |---------------------------|------------------|
-| Daniel Gamarra Moreno      |                  |
+| Daniel       |      Gamarra Moreno            |
 
 
 ### Explicación:
